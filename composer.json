@@ -1,5 +1,5 @@
 {
-	"name": "kdyby/events",
+	"name": "greeny/events",
 	"type": "library",
 	"description": "Events for Nette Framework",
 	"keywords": ["nette", "kdyby"],
